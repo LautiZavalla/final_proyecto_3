@@ -1,0 +1,25 @@
+$bg-azul:#042743;
+$bg-rojo:#DB0029;
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    height: 100%;
+}
+
+@font-face {
+    font-family: 'MBold';
+    src: url(../fonts/Montserrat-ExtraBold.ttf)
+}
+
+body{
+    background-color: #808587;
+}
+
+a{
+    font-family: 'MBold';
+}
